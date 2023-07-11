@@ -241,6 +241,35 @@
     font-weight: 700;
 }
 
+/* footer section */
+
+.footer{
+    background-color: #111010;
+    height: 450px;
+    
+}
+
+.footer-container h3{
+    margin-top: 120px;
+    margin-bottom: 24px;
+    color:#E55473;
+    padding-top: 130px;
+}
+
+.footer-container h3 span{
+    color:white;
+}
+
+.footer-container p{
+    margin-bottom: 30px;
+    color:white;
+}
+
+.footer-container .footer-p{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.40);
+}
+
 
 
 
