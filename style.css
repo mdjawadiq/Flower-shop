@@ -68,9 +68,7 @@
 
 .section-1{
     padding:130px;
-    position: relative;
-    
-    
+
 }
 
 .section-1 .section-title{
@@ -159,6 +157,23 @@
 }
 
 /* main > section-3 */
+
+.section-3{
+    margin-top:128px;
+    padding-left: 180px;
+}
+
+.section-3 .section-title {
+    margin-bottom: 24px;
+}
+
+.section-3 .section-description{
+      margin-bottom:48px;
+}
+
+.section-3-img-src{
+    width:320px;
+}
 
 
 
