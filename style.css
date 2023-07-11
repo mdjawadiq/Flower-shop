@@ -161,19 +161,50 @@
 .section-3{
     margin-top:128px;
     padding-left: 180px;
+    margin-left: 100px;
+
 }
 
 .section-3 .section-title {
     margin-bottom: 24px;
+    margin-right: 250px;
 }
 
 .section-3 .section-description{
       margin-bottom:48px;
+      margin-right:250px ;
 }
 
 .section-3-img-src{
-    width:320px;
+    width:280px;
 }
+
+/* main> section-4 */
+
+.section-4{
+    background: url('Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 100px;
+    
+}
+
+.section-4-container{
+    height: 449px;
+}
+
+.section-4-container h3{
+    padding-top: 120px;
+}
+
+.section-4-container input {
+    
+}
+
+
+
+
+
 
 
 
